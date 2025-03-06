@@ -18,3 +18,6 @@ Install Frontend Dependencies
 
 # Step 5 : php artisan serve
 Start the Laravel Development Server
+
+# Step 6 : npm run dev
+To view the front-end
